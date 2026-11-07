@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-noon-sakinah-fsm",
+  "version": "1.0.0",
+  "description": "Noon Sakinah & Tanween Finite-State Rule Automaton (آلة الحالة المحدودة لأحكام النون الساكنة والتنوين)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
